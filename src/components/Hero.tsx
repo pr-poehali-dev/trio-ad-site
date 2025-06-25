@@ -50,9 +50,7 @@ const Hero = () => {
                 href="#"
                 className="text-gray-600 hover:text-primary transition-colors p-2 hover:scale-110 transform duration-200"
                 title="VK"
-              >
-                <Icon name="Share2" size={24} />
-              </a>
+              ></a>
             </div>
           </div>
         </div>
