@@ -42,13 +42,6 @@ const Hero = () => {
               <a
                 href="#"
                 className="text-gray-600 hover:text-primary transition-colors p-2 hover:scale-110 transform duration-200"
-                title="Instagram"
-              >
-                <Icon name="Instagram" size={24} />
-              </a>
-              <a
-                href="#"
-                className="text-gray-600 hover:text-primary transition-colors p-2 hover:scale-110 transform duration-200"
                 title="Behance"
               >
                 <Icon name="Globe" size={24} />
